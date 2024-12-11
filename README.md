@@ -1,4 +1,4 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-devanshsahni.vercel.app/">Lakshya Goel</a></h2>
+<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://lakshya30-portfolio.netlify.app/">Lakshya Goel</a></h2>
 
 <br/>
 
